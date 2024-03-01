@@ -3,6 +3,6 @@ plotly==4.1.0
 
 dash==1.2.0
 
-dash-html-components==1.0.1
+dash-html-components==2.0.0
 
 dash-core-components==1.1.2
